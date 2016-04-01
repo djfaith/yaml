@@ -25,7 +25,7 @@ package yaml
 
 import (
 	"fmt"
-	"gopkg.in/yaml.v1"
+	"gopkg.in/yaml.v2"
 	"log"
 	"menteslibres.net/gosexy/dig"
 	"os"
